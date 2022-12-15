@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Publications
-# subtitle: List of my publications
+title: Michael Frühauf
+subtitle: IT system administrator in the field of network and IT security, M.Sc. in Applied IT Security
 ---
 
+## Publications
 **Frühauf, M.**, Hedfeld, P., Ulmann, B. (2019a):  
 Künstliche Intelligenz im SIEM-Umfeld,  
 In: [Finanz Colloquium Heidelberg](https://www.fchgruppe.de/Beitrag/2281/kuenstliche-intelligenz-im-siem-umfeld)
