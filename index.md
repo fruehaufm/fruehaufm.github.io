@@ -5,12 +5,15 @@ subtitle: IT system administrator in the field of network and IT security, M.Sc.
 ---
 
 ## About Me
-My name is Michael. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?!
+I am an IT system administrator in the field of network and IT security with a strong interest in research. My main duties have been in the area of system and network administration and monitoring of the infrastructure.
+Therefore, I have experience with:
+- Infrastructure monitoring, troubleshooting (checkMK)
+- System and network administration
+- Configuration and administration of network access control (NAC) and network analysis software
+- Evaluation and administration of remote access software
+- System and network administration of the group-wide infrastructure, troubleshooting
+- Documentation
+- Performance monitoring
 
 ### Education
 
