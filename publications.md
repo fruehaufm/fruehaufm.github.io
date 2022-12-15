@@ -4,13 +4,9 @@ title: Publications
 # subtitle: List of publications
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Frühauf, M.**, Hedfeld, P., Ulmann, B. (2019a): Künstliche Intelligenz
+im SIEM-Umfeld, in: Finanz Colloquium Heidelberg, [URL](www.fchgruppe.de/Beitrag/2281/kuenstliche-intelligenz-im-siem-umfeld)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Frühauf, M.**, Hedfeld, P., Ulmann, B. (2019b): Künstliche Intelligenz in
+der IT-Security, in: Finanz Colloquium Heidelberg, [URL](www.fchgruppe.de/Beitrag/3051/kuenstliche-intelligenz-in-der-it-security)
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
