@@ -21,7 +21,7 @@ Therefore, I have experience with:
 
 <br>
 
-### Education
+## Education
 
 <p> </p>
 
