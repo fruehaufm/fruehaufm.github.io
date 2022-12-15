@@ -31,7 +31,9 @@ Therefore, I have experience with:
 Final grade: very good (88%) _(ETH GPA: 5.52)_  
 Master‘s thesis: “Stakeholder-Specific Vulnerability Categorization – Stärken, Schwächen und Umsetzbarkeit in der Praxis”  
 Thesis supervisor: [Prof. Dr. Evren Eren](https://www.hs-bremen.de/person/eeren/)  
+
 <br>
+
 ###### 09/2014 – 03/2019
 **Extra-occupational studies in Business Informatics (B.Sc.)**  
 [FOM University of Applied Sciences](https://www.fom.de/studiengaenge/it-management/bachelor-studiengang/wirtschaftsinformatik.html), Frankfurt a. M.  
