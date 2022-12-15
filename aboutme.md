@@ -18,7 +18,7 @@ Therefore, I have experience with:
 - Performance monitoring (Netcor GeNiEnd2End)
 - AutoIt
 - IBM/HCL Notes, Atlassian Confluence & Jira
-  
+ <br>
 
 ### Education
 <br>
@@ -38,3 +38,4 @@ Thesis supervisor: [Prof. Dr. Bernd Ulmann](https://www.fom.de/hochschulzentren/
 
 #### 08/2008 – 06/2011
 **Vocational training as an IT specialist (system integration)**
+at JUMO GmbH & Co. KG
