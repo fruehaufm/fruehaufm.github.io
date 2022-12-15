@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Michael Frühauf
 subtitle: IT system administrator in the field of network and IT security, M.Sc. in Applied IT Security
 ---
 
