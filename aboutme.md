@@ -41,4 +41,4 @@ Thesis supervisor: [Prof. Dr. Bernd Ulmann](https://www.fom.de/hochschulzentren/
 
 ##### 08/2008 – 06/2011
 **Vocational training as an IT specialist (system integration)**  
-at JUMO GmbH & Co. KG
+at JUMO GmbH & Co. KG, Fulda
