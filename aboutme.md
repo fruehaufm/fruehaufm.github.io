@@ -23,9 +23,18 @@ Therefore, I have experience with:
 
 #### Master's
 
-asd
+**Distance learning in Applied IT Security (M.Sc.)**  
+isits AG resp. Ruhr University Bochum (RUB)  
+Final grade: very good (88%)  
+Master‘s thesis: “Stakeholder-Specific Vulnerability Categorization – Stärken, Schwächen und Umsetzbarkeit in der Praxis”  
+Thesis supervisor: Prof. Dr. Evren Eren  
 
 #### Bachelor's
 
+**Extra-occupational studies in Business Informatics (B.Sc.)**  
+FOM University of Applied Sciences, Frankfurt a. M.  
+Final grade: 1.3 with distinction  
+Bachelor‘s thesis: “Einsatzmöglichkeiten künstlicher Intelligenz im Security Information and Event Management”  
+Thesis supervisor: Prof. Dr. Bernd Ulmann  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
