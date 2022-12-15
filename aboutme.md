@@ -29,7 +29,7 @@ Thesis supervisor: Prof. Dr. Evren Eren
 
 ##### 09/2014 – 03/2019
 **Extra-occupational studies in Business Informatics (B.Sc.)**  
-FOM University of Applied Sciences, Frankfurt a. M.  
+[FOM University of Applied Sciences](https://www.fom.de/studiengaenge/it-management/bachelor-studiengang/wirtschaftsinformatik.html), Frankfurt a. M.  
 Final grade: 1.3 _(ETH GPA: 5.80)_ with distinction  
 Bachelor‘s thesis: “Einsatzmöglichkeiten künstlicher Intelligenz im Security Information and Event Management”  
 Thesis supervisor: Prof. Dr. Bernd Ulmann  
