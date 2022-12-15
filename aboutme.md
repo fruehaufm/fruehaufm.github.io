@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: IT system administrator in the field of network and IT security, M.Sc. in Applied IT Security
 ---
 
 ## About Me
