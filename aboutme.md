@@ -37,4 +37,3 @@ Final grade: 1.3 with distinction
 Bachelor‘s thesis: “Einsatzmöglichkeiten künstlicher Intelligenz im Security Information and Event Management”  
 Thesis supervisor: Prof. Dr. Bernd Ulmann  
 
-
