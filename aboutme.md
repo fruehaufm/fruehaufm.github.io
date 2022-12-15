@@ -22,6 +22,9 @@ Therefore, I have experience with:
 <br>
 
 ### Education
+
+<p> </p>
+
 ###### 04/2019 – 06/2022
 **Distance learning in Applied IT Security (M.Sc.)**  
 [isits AG](https://studyitsecurity.is-its.org/) resp. [Ruhr University Bochum (RUB)](https://studienangebot.rub.de/en/applied-it-security/master-1-subject)  
@@ -36,6 +39,6 @@ Final grade: 1.3 _(ETH GPA: 5.80)_ with distinction
 Bachelor‘s thesis: “Einsatzmöglichkeiten künstlicher Intelligenz im Security Information and Event Management”  
 Thesis supervisor: [Prof. Dr. Bernd Ulmann](https://www.fom.de/hochschulzentren/frankfurt-a-m/lehrende.html)  
 
-##### 08/2008 – 06/2011
+###### 08/2008 – 06/2011
 **Vocational training as an IT specialist (system integration)**  
 at JUMO GmbH & Co. KG
