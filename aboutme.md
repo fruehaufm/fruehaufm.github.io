@@ -18,6 +18,7 @@ Therefore, I have experience with:
 - Performance monitoring (Netcor GeNiEnd2End)
 - AutoIt
 - IBM/HCL Notes, Atlassian Confluence & Jira  
+
 <br>
 
 ### Education
