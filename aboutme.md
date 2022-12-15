@@ -20,20 +20,17 @@ Therefore, I have experience with:
 - IBM/HCL Notes, Atlassian Confluence & Jira
 
 ### Education
-
-#### Master's
-
+##### 04/2019 – 06/2022
 **Distance learning in Applied IT Security (M.Sc.)**  
 isits AG resp. Ruhr University Bochum (RUB)  
-Final grade: very good (88%)  
+Final grade: very good (88%) _(ETH GPA: 5.52)_  
 Master‘s thesis: “Stakeholder-Specific Vulnerability Categorization – Stärken, Schwächen und Umsetzbarkeit in der Praxis”  
 Thesis supervisor: Prof. Dr. Evren Eren  
 
-#### Bachelor's
-
+##### 09/2014 – 03/2019
 **Extra-occupational studies in Business Informatics (B.Sc.)**  
 FOM University of Applied Sciences, Frankfurt a. M.  
-Final grade: 1.3 with distinction  
+Final grade: 1.3 _(ETH GPA: 5.80)_ with distinction  
 Bachelor‘s thesis: “Einsatzmöglichkeiten künstlicher Intelligenz im Security Information and Event Management”  
 Thesis supervisor: Prof. Dr. Bernd Ulmann  
 
