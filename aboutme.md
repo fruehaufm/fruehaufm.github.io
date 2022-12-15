@@ -19,9 +19,9 @@ Therefore, I have experience with:
 - AutoIt
 - IBM/HCL Notes, Atlassian Confluence & Jira
   
-<br>
+ <br>
 ### Education
-<br>
+ <br>
 ##### 04/2019 – 06/2022
 **Distance learning in Applied IT Security (M.Sc.)**  
 [isits AG](https://studyitsecurity.is-its.org/) resp. [Ruhr University Bochum (RUB)](https://studienangebot.rub.de/en/applied-it-security/master-1-subject)  
