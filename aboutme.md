@@ -17,8 +17,7 @@ Therefore, I have experience with:
 - Documentation (Zetema CabDoc)
 - Performance monitoring (Netcor GeNiEnd2End)
 - AutoIt
-- IBM/HCL Notes, Atlassian Confluence & Jira
-  
+- IBM/HCL Notes, Atlassian Confluence & Jira  
  <br>
 ### Education
  <br>
