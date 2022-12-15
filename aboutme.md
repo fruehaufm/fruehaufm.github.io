@@ -37,5 +37,5 @@ Bachelor‘s thesis: “Einsatzmöglichkeiten künstlicher Intelligenz im Securi
 Thesis supervisor: [Prof. Dr. Bernd Ulmann](https://www.fom.de/hochschulzentren/frankfurt-a-m/lehrende.html)  
 
 #### 08/2008 – 06/2011
-**Vocational training as an IT specialist (system integration)**
+**Vocational training as an IT specialist (system integration)**  
 at JUMO GmbH & Co. KG
