@@ -4,7 +4,7 @@ title: Michael Frühauf
 subtitle: IT system administrator in the field of network and IT security, M.Sc. in Applied IT Security
 ---
 
-## About Me
+## Welcome
 I am an IT system administrator in the field of network and IT security with a strong interest in research. My main duties have been in the area of system and network administration and monitoring of the infrastructure.  
 Therefore, I have experience with:
 - Infrastructure monitoring, troubleshooting (Checkmk)
