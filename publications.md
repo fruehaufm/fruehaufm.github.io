@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-# subtitle: List of publications
+# subtitle: List of my publications
 ---
 
 **Frühauf, M.**, Hedfeld, P., Ulmann, B. (2019a):  
