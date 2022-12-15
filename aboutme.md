@@ -18,8 +18,8 @@ Therefore, I have experience with:
 - Performance monitoring (Netcor GeNiEnd2End)
 - AutoIt
 - IBM/HCL Notes, Atlassian Confluence & Jira
-
-### Education
+  
+### Education  
 ##### 04/2019 – 06/2022
 **Distance learning in Applied IT Security (M.Sc.)**  
 isits AG resp. Ruhr University Bochum (RUB)  
