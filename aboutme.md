@@ -5,7 +5,7 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 ## About Me
-I am an IT system administrator in the field of network and IT security with a strong interest in research. My main duties have been in the area of system and network administration and monitoring of the infrastructure.  
+I am an IT system administrator in the field of network and IT security with a strong interest in research. My main responsibilities in my 10+ years of professional experience have been in the area of system and network administration as well as infrastructure monitoring.  
 Therefore, I have experience with:
 - Infrastructure monitoring, troubleshooting (Checkmk)
 - System and network administration of a group-wide infrastructure, troubleshooting (Extreme Networks, Enterasys, Fortinet, Sophos, Aerohive)
@@ -34,3 +34,5 @@ Final grade: 1.3 _(ETH GPA: 5.80)_ with distinction
 Bachelor‘s thesis: “Einsatzmöglichkeiten künstlicher Intelligenz im Security Information and Event Management”  
 Thesis supervisor: Prof. Dr. Bernd Ulmann  
 
+#### 08/2008 – 06/2011
+**Vocational training as an IT specialist (system integration)**
