@@ -22,7 +22,7 @@ Therefore, I have experience with:
 ### Education  
 ##### 04/2019 – 06/2022
 **Distance learning in Applied IT Security (M.Sc.)**  
-isits AG resp. Ruhr University Bochum (RUB)  
+[isits AG](https://studyitsecurity.is-its.org/) resp. [Ruhr University Bochum (RUB)](https://studienangebot.rub.de/en/applied-it-security/master-1-subject)  
 Final grade: very good (88%) _(ETH GPA: 5.52)_  
 Master‘s thesis: “Stakeholder-Specific Vulnerability Categorization – Stärken, Schwächen und Umsetzbarkeit in der Praxis”  
 Thesis supervisor: Prof. Dr. Evren Eren  
