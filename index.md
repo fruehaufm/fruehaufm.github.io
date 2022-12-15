@@ -8,17 +8,16 @@ subtitle: IT system administrator in the field of network and IT security, M.Sc.
 I am an IT system administrator in the field of network and IT security with a strong interest in research. My main duties have been in the area of system and network administration and monitoring of the infrastructure.  
 Therefore, I have experience with:
 - Infrastructure monitoring, troubleshooting (Checkmk)
-- System and network administration (Extreme Networks, Enterasys, Fortinet, Sophos, Aerohive)
-  - Network Access Control (NAC) (Extreme Networks)
+- System and network administration of a group-wide infrastructure, troubleshooting (Extreme Networks, Enterasys, Fortinet, Sophos, Aerohive)
   - VPN
   - LAN, WLAN, WAN
+  - Hardware
 - Configuration and administration of network access control (NAC) and network analysis software (Extreme Networks)
 - Evaluation and administration of remote access software (FastViewer)
-- System and network administration of a group-wide infrastructure, troubleshooting
 - Documentation (Zetema CabDoc)
 - Performance monitoring (Netcor GeNiEnd2End)
-- IBM/HCL Notes
 - AutoIt
+- IBM/HCL Notes
 
 ### Education
 
