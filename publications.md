@@ -15,6 +15,5 @@ In: [Finanz Colloquium Heidelberg](https://www.fchgruppe.de/Beitrag/3051/kuenstl
 
 <br>
 
-You can see my Master's degree project in action [here](https://fruehaufm.github.io/assets/ssvc-calc-mf/). 
-It is based on [this project](https://github.com/CERTCC/SSVC/).  
-Sample JSON-based SSVC decisions for import can be found [here](https://github.com/fruehaufm/SSVC/tree/main/ssvc-calc-mf/ssvc-decisions).
+_You can see my Master's degree project in action [here](https://fruehaufm.github.io/assets/ssvc-calc-mf/). It is based on [this project](https://github.com/CERTCC/SSVC/)._  
+_Sample JSON-based SSVC decisions for import can be found [here](https://github.com/fruehaufm/SSVC/tree/main/ssvc-calc-mf/ssvc-decisions)._
