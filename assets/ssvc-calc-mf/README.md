@@ -2,7 +2,7 @@
 Stakeholder-Specific Vulnerability Categorization Calculator
 
 ### This version that allows importing JSON-based files in addition to TSV files. 
-### It is a copy of [ssvc-calc-mf](https://github.com/fruehaufm/SSVC/tree/main/ssvc-calc-mf) and originally forked from [here](https://github.com/CERTCC/SSVC/) for visualization purposes.
+### It is a copy of [/fruehaufm/SSVC/tree/main/ssvc-calc-mf](https://github.com/fruehaufm/SSVC/tree/main/ssvc-calc-mf) for visualization purposes and was originally forked from [here](https://github.com/CERTCC/SSVC/).
 
 Dryad is a SSVC calculator app that guides you through the simple steps needed in making
 a vulnerability priority decision.  The result of applying SSVC is a priority decision,
