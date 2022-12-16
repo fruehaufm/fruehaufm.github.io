@@ -1,0 +1,82 @@
+{
+  "ssvc_decision": [
+	{
+	  "role": "Deployer",
+	  "id": "CVE-2022-MF0",
+	  "version": "2.0",
+	  "generator": "Dryad SSVC Calculator 5.1.4",
+	  "computed": "SSVCv2/E:P/X:C/A:Y/V:C/A:N/V:D/U:L/S:A/M:C/S:N/M:N/H:L/P:D/2022-05-28T13:09:30Z/",
+	  "timestamp": "2022-05-28T13:09:30Z",
+	  "options": [
+		{
+		  "Exploitation": "none"
+		},
+		{
+		  "Exposure": "controlled"
+		},
+		{
+		  "Automatable": "yes"
+		},
+		{
+		  "Value Density": "diffuse"
+		},
+		{
+		  "Utility": "super effective"
+		},
+		{
+		  "Situated Safety Impact": "major"
+		},
+		{
+		  "Mission Impact": "crippled"
+		},
+		{
+		  "Human Impact": "medium"
+		},
+		{
+		  "Priority": "scheduled"
+		}
+	  ],
+	  "$schema": "http://localhost/ssvc-calc-mf/SSVC_Computed_v2.03.schema.json",
+	  "decision_tree_url": "http://localhost/ssvc-calc-mf/Deployer-v2.0.0.json"
+	},
+	{
+		  "role": "Unknown",
+  "id": "CVE-2022-MF1",
+  "version": "2.0",
+  "generator": "Dryad SSVC Calculator 5.1.4",
+  "computed": "SSVCv2/E:P/X:S/A:N/V:D/U:L/S:N/M:N/H:L/P:D/2022-05-24T10:54:03Z/",
+  "timestamp": "2022-05-24T10:54:03Z",
+  "options": [
+    {
+      "Exploitation": "poc"
+    },
+    {
+      "Exposure": "small"
+    },
+    {
+      "Automatable": "no"
+    },
+    {
+      "Value Density": "diffuse"
+    },
+    {
+      "Utility": "laborious"
+    },
+    {
+      "Situated Safety Impact": "none"
+    },
+    {
+      "Mission Impact": "none"
+    },
+    {
+      "Human Impact": "low"
+    },
+    {
+      "Priority": "defer"
+    }
+  ],
+  "$schema": "http://localhost/ssvc-calc-mf/SSVC_Computed_v2.03.schema.json",
+  "decision_tree_url": "http://localhost/ssvc-calc-mf/Deployer-v2.0.0.json"
+	}
+	]
+}

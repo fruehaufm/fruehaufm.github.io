@@ -1,0 +1,5 @@
+CVE	Vulnerability	CVSS (v3.x Base Score)	SSVC (Decision)	Exploitation	Exposure	Automatable	Value Density	Utility	Situated Safety Impact	Mission Impact	Human Impact
+CVE-2020-MF00	Unraid 6.8.0 PHP RCE	9.8	Sheduled	Active	Small	Yes	Diffuse	Efficient	Major	Crippled	Medium
+CVE-2022-MF01	TestVuln	10.0	Out-Of-Cycle	Active	Open	Yes	Diffuse	Efficient	Major	Crippled	Medium
+CVE-2022-MF02	TestVuln2	8.6	Sheduled	PoC	Small	No	Diffuse	Efficient	Major	Crippled	Medium
+
