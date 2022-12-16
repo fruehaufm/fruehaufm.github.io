@@ -13,7 +13,7 @@ In: [Finanz Colloquium Heidelberg](https://www.fchgruppe.de/Beitrag/2281/kuenstl
 Künstliche Intelligenz in der IT-Security,  
 In: [Finanz Colloquium Heidelberg](https://www.fchgruppe.de/Beitrag/3051/kuenstliche-intelligenz-in-der-it-security)
 
-
+## Projects
 You can see my Master's degree project [here](https://fruehaufm.github.io/assets/ssvc-calc-mf/). 
 It is based on [this project](https://github.com/CERTCC/SSVC/). 
 Sample JSON-based SSVC decisions for import can be found [here](https://github.com/fruehaufm/SSVC/tree/main/ssvc-calc-mf/ssvc-decisions).
