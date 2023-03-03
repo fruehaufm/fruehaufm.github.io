@@ -19,7 +19,7 @@ Therefore, I have experience with:
 - Hardware and software installation and commissioning
 - Documentation (Zetema CabDoc)
 - Performance monitoring (Netcor GeNiEnd2End)
-- AutoIt 
+- AutoIt
 - IBM/HCL Notes, Atlassian Confluence & Jira  
 
 <br>
