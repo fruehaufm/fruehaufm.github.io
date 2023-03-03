@@ -8,12 +8,15 @@ subtitle: IT system administrator in the field of network and IT security; M.Sc.
 I am a Zurich-based IT system administrator in the field of network and IT security with a strong interest in research. My main responsibilities in my 10+ years of professional experience have been in the area of system and network administration as well as infrastructure monitoring.  
 Therefore, I have experience with:
 - Infrastructure monitoring, troubleshooting (Checkmk)
-- System and network administration of a group-wide infrastructure, troubleshooting (Extreme Networks, Enterasys, Fortinet, Sophos, Aerohive)
+- System and network administration of a group-wide infrastructure (esp. routers, switches, firewalls and wireless networks), troubleshooting (Extreme Networks, Enterasys, Fortinet, Sophos, Aerohive)
   - VPN
   - LAN, WLAN, WAN
   - Hardware
 - Configuration and administration of network access control (NAC) and network analysis software (Extreme Networks)
+- First & second level support
 - Evaluation and administration of remote access software (FastViewer)
+- Leadership of employee training sessions
+- Hardware and software installation and commissioning
 - Documentation (Zetema CabDoc)
 - Performance monitoring (Netcor GeNiEnd2End)
 - AutoIt
